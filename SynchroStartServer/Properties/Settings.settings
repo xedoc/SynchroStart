@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SynchroStartServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="timerSeconds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="gameName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">aces</Value>
+    </Setting>
+    <Setting Name="gameWindow" Type="System.String" Scope="User">
+      <Value Profile="(Default)">War Thunder</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
